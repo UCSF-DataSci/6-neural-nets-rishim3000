@@ -1,0 +1,8 @@
+model: ecg_classifier
+accuracy: 0.9758241772651672
+auc: 0.5570229291915894
+precision: nan
+recall: 0.0
+f1_score: nan
+confusion_matrix: [[444, 0], [11, 0]]
+----
